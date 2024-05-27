@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410823846093",
+    "project_id": "yapilacaklarlist",
+    "storage_bucket": "yapilacaklarlist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410823846093:android:ad1ee7155eb235c4ee2184",
+        "android_client_info": {
+          "package_name": "com.example.yapilacaklarlistesi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHwveyJvRDffTU5zm_kFHOGoIfP_NRNSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
